@@ -19,7 +19,7 @@ Hours Spent: 250
 * Remy Cross: Board
 * Carter Stonesifer: Controller
 * Amr Tagel-Din: Pieces
-* Tim Jang: Game & REST API
+* Tim Jang: Game, Player & REST API
 * Marcus Deans: View
 
 ### Resources Used
@@ -35,7 +35,7 @@ Features implemented:
 * Play normal game of chess
 * Undo, redo moves
 * History of chess moves
-* Player profile and login
+* Player profile and login saved in online database
 * Visual modifications of chessboard
 * Gameplay modifications (both rules & board design)
 
@@ -53,5 +53,4 @@ Challenge Features:
 * REST API to store user data
 
 
-### Impressions
 
