@@ -1,0 +1,17 @@
+Type=MiniGame
+Title=Tiny Chess
+Author=Carter Stonesifer
+
+Description=Ain't got the time?
+
+GameTimer=0
+
+GameConfiguration=data/MiniGame.csv
+
+Portal=False
+BlackHole=False
+EdgePolicy=Basic
+
+PiecesImageDirectory=Standard
+
+//more to come, but the game configuration will all be defined here

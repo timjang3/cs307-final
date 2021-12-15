@@ -1,0 +1,16 @@
+Type=Puzzles
+Title=Standard Chess
+Author=Remy Cross
+
+Description=Practice some pre-set scenario's
+
+GameTimer=0
+
+MoveColor=#FF0000
+SelectColor=#00FF00
+
+Portal=False
+BlackHole=False
+EdgePolicy=Toroidal
+
+PiecesImageDirectory=Standard
